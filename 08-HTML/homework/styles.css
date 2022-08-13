@@ -1,0 +1,29 @@
+body{
+    background-color:rgb(43, 198, 226);
+}
+
+h1{
+    color:rgb(6, 26, 138)
+}
+
+.divClass{
+    color:rgb(6, 26, 138)
+}
+
+#spanId{
+    font-size: 18;
+    margin: 50;    
+}
+
+#thirdDiv{
+    width: 500;
+    height: 600;
+    padding: 50;
+    border: 4mm ridge rgba(211, 220, 50, .6);
+    background-color: rgb(21, 69, 172);
+}
+
+img{
+    width: 400;
+}
+
